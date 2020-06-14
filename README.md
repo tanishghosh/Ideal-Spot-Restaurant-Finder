@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Ideal Spot Restaurant Finder
